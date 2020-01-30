@@ -1,0 +1,14 @@
+download/
+*.vscode/
+*.log
+*.pdf
+*build/
+*.aux
+*.bcf
+*.bbl
+*.blg
+*.fls
+*.toc
+*.run.xml
+*.fdb_latexmk
+*.pyc
